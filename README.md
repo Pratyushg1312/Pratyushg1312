@@ -9,6 +9,7 @@ I am dedicated, collaborative, and always striving to drive meaningful innovatio
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-gupta-0b63b1174/)
 ![mail](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](pratyushg095@gmail.com)
 ![LeetCode](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://leetcode.com/Pratyush1312/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
 
 ## Education
 
