@@ -12,9 +12,9 @@ I am dedicated, collaborative, and always striving to drive meaningful innovatio
 ## Education
 
 - **B.Tech in Computer Science and Business System**
-  MedI-Caps University, Indore, India
-  July 2020 - June 2024
-  CGPA: 8.4/10
+  -MedI-Caps University, Indore, India
+  -July 2020 - June 2024
+  -CGPA: 8.4/10
 
 ## 💻 Tech Stack:
 
