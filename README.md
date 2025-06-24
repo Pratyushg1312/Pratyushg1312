@@ -27,10 +27,10 @@ I am dedicated, collaborative, and always striving to drive meaningful innovatio
 
 ## Experience
 - **Freelance Devloper**
-- **MU-SDC | Full Stack Web Developer**
+
 
 ## Achivements
-- Solved 800+ Coding Problems & 300+ Problems at LeetCode
+- Solved 400+ Coding Problems & 300+ Problems at LeetCode
 
 
 
