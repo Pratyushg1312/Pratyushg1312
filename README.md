@@ -5,6 +5,7 @@
 I am dedicated, collaborative, and always striving to drive meaningful innovation through technology. My goal is to make a positive impact on every project I work on.
 
 ## Feel free to get in touch with me:
+- [![personal Website]](https://pratyush.pro)
 - [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:pratyushg095@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-gupta-0b63b1174/)
 - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Pratyush1312/)
